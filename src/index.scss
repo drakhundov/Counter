@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url('../public/fonts/Inter/static/Inter_18pt-Light.ttf');
+    font-size: 18px;
+    font-weight: lighter;
+}
